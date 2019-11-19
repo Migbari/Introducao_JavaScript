@@ -1,0 +1,13 @@
+  	
+	COMANDO BÁSICO PARA MOSTRAR NO CONSOLE UM CÓDIGO JAVASCRIPT
+
+ 	<!-- Mostra a idade de 37 à 50 conforme definido do laço FOR -->
+        <script>
+           
+            for(var idade =  37; idade <= 50; idade++){
+              document.writeln(idade,'<br>')
+            }
+       </script> 
+
+
+
